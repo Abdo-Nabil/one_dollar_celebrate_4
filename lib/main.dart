@@ -21,7 +21,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: AppStrings.oneDollarApp,
       theme: ThemeData(
-        primarySwatch: Colors.red,
+        primaryColor: Color(0x2B1C5A),
       ),
       home: const MyHomePage(),
     );
